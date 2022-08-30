@@ -1,7 +1,52 @@
-# React Firebase Super Chat
 
-A simple fullstack chat demo with React and Firebase. 
+# Project Title
+chat app with react and firebase 
 
-Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
 
-[Live demo](https://fireship-demos.web.app/)
+## Roadmap
+
+- Additional browser support
+
+- react basics
+- firebase realtime chat
+- google auth
+
+
+## Run Locally
+
+Clone the project
+
+
+
+Go to the project directory
+
+```bash
+  cd chatapp
+```
+
+Install dependencies
+
+```bash
+  npm install or npm i
+```
+
+Start the server
+
+```bash
+  npm  start
+```
+
+
+## Lessons Learned
+
+Using reactjs, firebase realtime chat , firebase configuration,web design , authentification with google
+
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
